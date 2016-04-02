@@ -10,7 +10,7 @@
     "test": "standard && node test.js"
   },
   "dependencies": {
-    "global-modules": "^0.2.0",
+    "global-prefix": "github:kuksikus/global-prefix",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
